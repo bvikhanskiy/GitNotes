@@ -1,1 +1,3 @@
 This is my first line in the notes
+This is the edited second line + one more modification
+Added the third line to this file
